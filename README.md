@@ -11,7 +11,7 @@
 
 ## Activities Page (required)
 
-Data comes from ./activities.js
+Data comes from [./activities.js](./activities.js)
 
 ### Requirements
 
